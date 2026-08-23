@@ -1,92 +1,118 @@
 <div align="center">
-  <h1>Sudhanshu Sodiyal</h1>
-  <p><b>Full-Stack Architect & Open Source Enthusiast</b></p>
-  
-  <p>
-    <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  </p>
 
-  <br />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:1a0b3d,100:00f0ff&height=220&section=header&text=SUDHANSHU%20SODIYAL&fontSize=46&fontColor=00f0ff&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Architect%20%7C%7C%20Systems%20Engineer&descAlignY=58&descAlign=50&descColor=ff00ff" width="100%" />
 
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Building_high-performance_ecosystems;Architecting_scalable_web_apps;Exploring_the_future_of_WebRTC" alt="Typing SVG" />
-  </p>
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=650&lines=%3E+Booting+full-stack-architect.exe...;%3E+Compiling+scalable+systems...;%3E+Architecting+real-time+ecosystems...;%3E+Status%3A+ONLINE" alt="Typing SVG" />
 
----
+<br/>
 
-### About Me
-
-Engineer focused on performance, scalability, and clean architecture. I specialize in building real-time applications and robust backend systems with a minimalist aesthetic.
-
-### Technologies
-
-<p align="left">
-  <b>Core</b><br />
-  <img src="https://skillicons.dev/icons?i=ts,js,go,react,nextjs,nodejs,c,cpp,express" />
-</p>
-
-<p align="left">
-  <b>Database & Infrastructure</b><br />
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,prisma,aws,docker,cloudflare,bun,redis" />
-</p>
-
-<p align="left">
-  <b>Tools & Others</b><br />
-  <img src="https://skillicons.dev/icons?i=git,github,neovim,tailwind,linux,bash" />
-</p>
-
----
-
-### Stats & Activity
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <a href="https://github.com/sudhanshu042004">
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sudhanshu042004&show_icons=true&hide_border=true&theme=dark&title_color=ffffff&text_color=adbac7&icon_color=ffffff&bg_color=0d1117" alt="GitHub Stats" height="150" />
-        </a>
-      </td>
-      <td width="50%" align="center">
-        <a href="https://github.com/sudhanshu042004">
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sudhanshu042004&layout=compact&hide_border=true&theme=dark&title_color=ffffff&text_color=adbac7&icon_color=ffffff&bg_color=0d1117" alt="Top Languages" height="150" />
-        </a>
-      </td>
-    </tr>
-  </table>
-
-  <br />
-
-  <a href="https://github.com/sudhanshu042004">
-    <img src="https://streak-stats.demolab.com/?user=sudhanshu042004&theme=dark&hide_border=true&background=0d1117&stroke=ffffff&ring=ffffff&fire=ffffff&dates=adbac7" alt="GitHub Streak" />
-  </a>
-
-  <br />
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00F0FF?style=for-the-badge&labelColor=0d0221" />
+<img src="https://img.shields.io/badge/UPTIME-99.9%25-FF00FF?style=for-the-badge&labelColor=0d0221" />
+<img src="https://img.shields.io/badge/CLEARANCE-ROOT-9D00FF?style=for-the-badge&labelColor=0d0221" />
 
 </div>
 
----
+<br/>
 
-### Connect
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00f0ff&height=2&section=header" width="100%" />
 
-<p align="left">
-  <a href="https://sudhanshusodiyal.me">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/sudhanshusodiyal/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:sudhanshusaudiyal15@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+## `>` SYSTEM.LOG
 
-<br />
+```ansi
+[boot] initializing sudhanshu@arch...
+[core] role      : Full-Stack Architect / Open Source Enthusiast
+[core] focus     : real-time systems, distributed backends, WebRTC
+[core] shell     : zsh + neovim on Arch Linux
+[core] mission   : build fast, scale clean, ship minimal
+[status]  ████████████████████████░░  92%  — always learning
+```
+
+<br/>
+
+## `>` TECH.STACK
 
 <div align="center">
-  <p><i>System Status: <b>Online</b></i></p>
+
+**◤ CORE ◢**
+<br/>
+<img src="https://skillicons.dev/icons?i=ts,js,go,react,nextjs,nodejs,c,cpp,express&theme=dark" />
+
+<br/><br/>
+
+**◤ DATA / INFRA ◢**
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,prisma,aws,docker,cloudflare,bun,redis&theme=dark" />
+
+<br/><br/>
+
+**◤ TOOLING ◢**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,neovim,tailwind,linux,bash&theme=dark" />
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=ff00ff&height=2&section=header" width="100%" />
+
+## `>` TELEMETRY
+
+<div align="center">
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sudhanshu042004&show_icons=true&hide_border=true&theme=dark&title_color=00f0ff&text_color=c9d1d9&icon_color=ff00ff&bg_color=0d0221&hide_rank=false" height="165" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sudhanshu042004&layout=compact&hide_border=true&theme=dark&title_color=00f0ff&text_color=c9d1d9&icon_color=ff00ff&bg_color=0d0221" height="165" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=sudhanshu042004&theme=dark&hide_border=true&background=0d0221&stroke=00f0ff&ring=ff00ff&fire=00f0ff&currStreakLabel=00f0ff&sideLabels=c9d1d9&dates=8b949e" />
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=9d00ff&height=2&section=header" width="100%" />
+
+## `>` COMMIT.STREAM
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sudhanshu042004/sudhanshu042004/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="contribution snake animation" src="https://raw.githubusercontent.com/sudhanshu042004/sudhanshu042004/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
+</div>
+
+<sub align="center">↳ generated by the <a href="https://github.com/Platane/snk">snk</a> GitHub Action — see setup note below</sub>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00f0ff&height=2&section=header" width="100%" />
+
+## `>` UPLINK
+
+<div align="center">
+
+<a href="https://sudhanshusodiyal.me">
+  <img src="https://img.shields.io/badge/PORTFOLIO-00F0FF?style=for-the-badge&logo=vercel&logoColor=0d0221&labelColor=0d0221" />
+</a>
+<a href="https://www.linkedin.com/in/sudhanshusodiyal/">
+  <img src="https://img.shields.io/badge/LINKEDIN-FF00FF?style=for-the-badge&logo=linkedin&logoColor=0d0221&labelColor=0d0221" />
+</a>
+<a href="mailto:sudhanshusaudiyal15@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-9D00FF?style=for-the-badge&logo=gmail&logoColor=0d0221&labelColor=0d0221" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=sudhanshu042004&label=TRANSMISSIONS+RECEIVED&color=0d0221&style=for-the-badge&labelColor=00f0ff" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,50:1a0b3d,100:0d0221&height=100&section=footer" width="100%" />
+
+<sub>© SUDHANSHU_SODIYAL // end of transmission</sub>
+
 </div>
